@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iSampul"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ban"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+        </ImageView>
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/img_photo"
+            android:layout_width="170dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="32dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:riv_corner_radius="20dp"
+            tools:src="@tools:sample/avatars" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="32dp"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_photo">
+
+
+            <TextView
+                android:id="@+id/textJudul"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="asasdsds"
+                android:textAlignment="textStart"
+                android:textSize="21sp"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/textBiografi"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="10dp"
+                android:text="Biografi"
+                android:textAlignment="textStart"
+                android:textSize="18sp"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/textDesc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Desc"
+                android:textAlignment="textStart" />
+
+            <TextView
+                android:id="@+id/textBio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="15dp"
+                android:text="Jabatan"
+                android:textAlignment="textStart"
+                android:textSize="18sp"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/textJabatan"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="100dp"
+                android:text="Desc"
+                android:textAlignment="textStart" />
+
+        </LinearLayout>
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/shareButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="16dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="32dp"
+            android:text="Share"
+            app:icon="@drawable/baseline_share_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout3" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

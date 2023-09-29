@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ngaos</string>
+
+    <string name="content_name">List Tayangan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Gus Miftah</item>
+        <item>Gus Reza</item>
+        <item>Gus Iqdam</item>
+        <item>Gus Azmi</item>
+        <item>KH Marzuki Mustamar</item>
+        <item>KH Said Aqil Siroj</item>
+        <item>Gus Muwafiq</item>
+        <item>KH Anwar Zahid</item>
+        <item>Gus Baha</item>
+        <item>Gus Kautsar</item>
+    </string-array>
+    <string-array name="data_jabatan">
+        <item>pendiri Pesantren Tegalsari di Ponorogo</item>
+        <item>Pengasuh pesantren Al-Mahrusiyah</item>
+        <item>pengasuh Pondok Pesantren Mambaul Hikam II </item>
+        <item>vokalis dalam grup sholawat Hadrah Syubbanul Muslimin</item>
+        <item>Ketua Tanfidziyah Pengurus Wilayah Nahdlatul Ulama (PWNU)</item>
+        <item>Mantan Ketua Tanfidziyah Pengurus Besar Nahdlatul Ulama (PBNU)</item>
+        <item>Ulama Muda NU</item>
+        <item>pengasuh Pondok Pesantren Sabilunnajah</item>
+        <item>pengasuh Pondok Pesantren Tahfidzul Quran LP3IA</item>
+        <item>Kepala Sub Pondok di PP. Al Falah, Ploso Mojo Kediri</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Miftah Maulana Habiburrahman, S.Pd. atau lebih dikenal dengan Gus Miftah adalah seorang mubalig dan pimpinan Pondok Pesantren Ora Aji di Sleman, Yogyakarta. Ia merupakan keturunan ke-9 Kiai Muhammad Ageng Besari, pendiri Pesantren Tegalsari di Ponorogo. </item>
+        <item>KH. Reza Ahmad Zahid atau panggilan akrabnya Gus Reza, lahir 22 September 1980 beliau adalah adalah putra pertama dari enam bersaudara pasangan KH. Imam Yahya Mahrus dan Hj. Zakiyah Miskiyah. Sang ayah, KH. Imam Yahya Mahrus adalah tokoh kharismatik dan nyentrik, putra pertama KH. Mahrus Ali, sesepuh pengasuh pondok pesantren Lirboyo Kediri. Sedangkan ibunya putri KH. Muhammad Utsman al-Ishaqy, Surabaya, tokoh mursyid thoriqoh shufiyyah terbesar di Indonesia, Thoriqoh al Qodiriyyah wan Naqsabandiyyah.</item>
+        <item>Agus Muhammad Iqdam Kholid atau dikenal Gus Iqdam (lahir di Blitar pada 27 September 1994) adalah pendakwah muda Nahdlatul Ulama, pengasuh Pondok Pesantren Mambaul Hikam II di Desa Karanggayam, Kabupaten Blitar, Jawa Timur, dan pendiri Majelis Ta’lim Sabilu Taubah. Namanya dikenal karena ceramahnya yang milenial, lucu, kocak, dan mendapuk semua kalangan termasuk anak-anak punk. Gus Iqdam merupakan pendiri Majelis Ta’lim Sabilu Taubah pada 2018 yang awalnya hanya memiliki 7 jemaah dan kini memiliki 66.000+ jemaah dari pelosok Nusantara. Sebagai seorang muballigh muda yang berasal dari Blitar, Gus Iqdam memiliki keunikan dalam berdakwah. Video-video ceramahnya telah menyebar luas di berbagai platform seperti Tiktok dan Youtube Shorts, sehingga masyarakat dari berbagai lapisan mudah mengenali dan mencintainya.[5] [6] [7] </item>
+        <item>Vokalis dalam grup sholawat Hadrah dari salah satu Pondok Pesantren di Probolinggo. Pada zaman sekarang, generasi milenial merupakan generasi yang paling disorot. Dalam bidang musik, salah satu yang mendapat perhatian adalah Gus Azmi. </item>
+        <item>Dr. K.H. Marzuqi Mustamar, M.Ag. adalah Pimpinan Pondok Pesantren Sabiilul Rosyad, Kota Malang, Jawa Timur sekaligus Ketua Tanfidziyah Pengurus Wilayah Nahdlatul Ulama Jawa Timur masa khidmat 2018–2023. Sejak kecil, KH. Marzuqi Mustamar dibesarkan dan dididik oleh kedua orang tua dengan disiplin ilmu yang tinggi. Beliau dididik dengan belajar al-Qur’an dan dasar ilmu agama. Kemudian beliau melanjutkan pendidikannya dengan belajar di sekolah formal, pada tahun 1972, beliau masuk TK Muslimat Karangsono Kanigoro, Blitar. Lalu melanjutkan lagi  di sekolah MI Miftahul ‘Ulum, tahun 1979. Lalu melanjutkan lagi di SMP Hasanuddin, tahun 1982, kemudian melanjutkan pendidikannya di MAN Tlogo, tahun 1985. Selain itu, beliau juga pernah mondok di PP. Nurul Huda, Mergosono.</item>
+        <item>Said Aqil Siradj adalah seorang ulama Indonesia dan mantan ketua dewan eksekutif Nahdlatul Ulama, organisasi Islam terbesar di dunia. Publikasi terbaru The 500 Most Influential Muslims oleh Royal Islamic Strategic Studies Center di Yordania menempatkannya sebagai orang Muslim paling berpengaruh ke-20 di dunia. </item>
+        <item>K.H. Ahmad Muwafiq, S.Ag atau lebih dikenal dengan Kyai Muwafiq atau Gus Muwafiq adalah salah satu ulama Nahdlatul Ulama\' yang mencerminkan pola pikir PBNU saat ini, dan kini tinggal di Sleman Yogyakarta. Dalam pengajiannya, Gus Muwafiq sering membahas isu-isu terbaru dan memberikan penjelasan secara rinci yang mudah diterima. Beliau, juga dikenal sebagai kiai dengan pemahaman sejarah yang sangat mendalam, mulai sejarah peradaban manusia secara umum, sejarah Agama Islam pada masa kenabian, hingga sejarah Nusantara. Begitu pun sejarah agama Islam di Indonesia, mulai awal perkembangan hingga saat ini. Beliau dapat menjelaskan dengan jelas dan mudah dipahami tentang setiap maksud dan makna filosofis dari setiap ajaran dan anjuran para wali/kiai tentang khas dakwah di Nusantara. Menurutnya, peradaban Islam tidak hanya berlangsung di jazirah Arab, Persia, dan Turki, tapi Nusantara juga salah satu kawasan berkembangnya Islam di tengah kemajemukan tradisi dan budaya sehingga banyak mewujudkan peradaban, baik peradaban laku, pemikiran, ide, gagasan, dan bangunan-bangunan khas berupa artefak, kitab, manuskrip, dan benda-benda arkeologi.</item>
+        <item>K.H. Ahmad Anwar Zahid adalah pengasuh Pondok Pesantren Sabilunnajah sekaligus seorang pendakwah kondang asal Kanor, Bojonegoro, Jawa Timur. Ia beraliran Ahlussunah wal Jama\'ah dan berafiliasi ormas Nahdlatul Ulama. Sejak kecil ia sekolah di Komplek Pesantrem At Tanwir, Sumberejo, Bojonegoro. </item>
+        <item>K.H. Ahmad Bahauddin Nursalim, lebih dikenal sebagai Gus Baha (lahir 29 September 1970), merupakan ulama yang berasal dari Rembang. Gus Baha menikah dengan Ning Winda asal Pesantren Sidogiri Pasuruan.Ia dikenal sebagai salah satu ulama ahli tafsir yang memiliki pengetahuan mendalam seputar al-Quran. Ia merupakan salah satu murid dari ulama kharismatik, Kiai Maimun Zubair.Gus Baha merupakan putra dari seorang ulama pakar Al-Qur’an dan juga pengasuh Pondok Pesantren Tahfidzul Quran LP3IA, Kiai Nursalim al-Hafizh, dari Narukan, Kragan, Rembang.[4] Kiai Nursalim merupakan murid dari Kiai Arwani Kudus dan Kiai Abdullah Salam, Kajen, Mergoyoso, Pati. Nasabnya bersambung kepada para ulama besar. Bersama Kiai Nursalim, KH Hamim Jazuli (Gus Miek) memulai gerakan Jantiko (Jamaah Anti Koler) yang menyelenggarakan kajian Al-Qur’an secara keliling.Jantiko kemudian berganti Mantab (Majelis Nawaitu Topo Broto), lalu berubah jadi Dzikrul Ghafilin. Kadang ketiganya disebut bersamaan: Jantiko-Mantab dan Dzikrul Ghafilin.[5]Dari silsilah keluarga ayah, Gus Baha’ merupakan generasi ke-4 ulama-ulama ahli Al-Quran. Sedangkan dari silsilah keluarga ibu, Gus Baha menjadi bagian dari keluarga besar ulama Lasem, dari Bani Mbah Abdurrahman Basyeiban atau Mbah Sambu.</item>
+        <item>Gus H. Muhammad Abdurrahman al-Kautsar adalah seorang putra kiai dari desa Ploso, Modjo, Kediri. Beliau terkenal karena ceramah-ceramahnya yang sangat menarik bagi masyarakat. Ia juga dikenal merupakan kiai atau guru dari Gus Iqdam yang sedang naik daun dan digandrungi para pemuda.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gusmiftah</item>
+        <item>@drawable/gusreza</item>
+        <item>@drawable/gusiqdam</item>
+        <item>@drawable/gusazmi</item>
+        <item>@drawable/khmarzuki</item>
+        <item>@drawable/khsaidaqil</item>
+        <item>@drawable/gusmuwafiq</item>
+        <item>@drawable/anwarzahid</item>
+        <item>@drawable/gusbaha</item>
+        <item>@drawable/guskautsar</item>
+    </integer-array>
+</resources>
